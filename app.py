@@ -138,4 +138,3 @@ def compute_instant_live_market(sport_type, team_query):
 
     tickets = random.randint(62, 84)
     handle = random.randint(3
-    
