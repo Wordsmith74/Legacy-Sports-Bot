@@ -52,4 +52,3 @@ def compute_prop_leaderboard_and_usage(sport_type, team_query):
         players_data = [
             {"Player": "LeBron James", "Position": "SF / PF", "Prop Line": "24.5 O/U", "Current Usage (USG%)": "28.4%", "Expected Usage (eUSG%)": "31.2% 📈", "Status / Notes": "Usage bump due to primary rotation shifts."},
             {"Player":
-        
